@@ -1,5 +1,3 @@
-# 안녕하세요
-
 - 🔭 language: <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 - 🌱 object: studying algorithm
