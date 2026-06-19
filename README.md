@@ -1,2 +1,2 @@
 - 🔭 language: <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-- 📫 mail: theskwoo@gmail.com
+- 📫 mail: thekswoo@gmail.com
